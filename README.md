@@ -1,6 +1,4 @@
 # ChemEBIP
-ChemEBIP is a versatile and powerful tool designed to estimate binary interaction parameters essential for Vapor Liquid Equilibrium (VLE) 
-
 
 ChemE BIP, short for "Chemical Engineering Binary Interaction Parameters," is a versatile and powerful tool designed to estimate binary interaction parameters essential for Vapor Liquid Equilibrium (VLE) calculations in complex multicomponent systems. This model relies primarily on activity coefficients derived from the Non-Random Two-Liquid (NRTL) model, enabling accurate predictions of phase equilibria. Whether you are a chemical engineer, researcher, or student, ChemE BIP offers valuable assistance in understanding and effectively using this tool for your VLE calculations.
 
